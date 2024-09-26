@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoalAlerts</string>
+    <string name="refresh_button_description">Refresh</string>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#22DB70</item>
+        <item name="colorPrimaryDark">#22DB70</item>
+        <item name="colorAccent">#22DB70</item>
+        <item name="android:windowBackground">#F3F4F6</item>
+    </style>
+
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+    </style>
+
+
+</resources>
